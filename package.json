@@ -1,0 +1,13 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "expo": "^25.0.0",
+    "hump": "0.0.4",
+    "humps": "^2.0.1",
+    "react": "16.2.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz",
+    "xml-formatter": "^1.0.1",
+    "rn-draw": "git+https://github.com/gaboelnuevo/rn-draw.git[#support-save]"
+  }
+}
